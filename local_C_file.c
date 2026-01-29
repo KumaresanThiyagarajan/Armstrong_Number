@@ -3,7 +3,7 @@
 
 void main(){
 
-	printf("im from Github");
+	printf("Github Live");
 
 
 }
